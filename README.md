@@ -1,6 +1,7 @@
 # 📚 Reading Suggestions
 
-## 🌐 Shadowmoor LARP (not reading material but may be of interest to anyone looking at this list)
+## 🌐 Shadowmoor LARP
+# not reading material but may be of interest to anyone looking at this list
 
 [Shadowmoor LARP](https://www.shadowmoor.org/) is a Live Action Role Playing Game (LARP) based in King’s Mountain State Park, South Carolina. They host monthly weekend-long adventures in an immersive high-fantasy world filled with magic, danger, and mystery. Players inhabit a rough-and-tumble town called Shadowmoor, situated in a resource-rich area known as the Oasis. The game features a mix of player-vs-player and player-vs-environment interactions, with a focus on storytelling and character development.
 Visit [shadowmoor.org](https://www.shadowmoor.org) for more information.
