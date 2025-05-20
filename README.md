@@ -26,6 +26,11 @@ All events are held in Blacksburg, SC. See the [calendar](https://www.shadowmoor
 2. *The Two Towers*
 3. *The Return of the King*
 
+### *The Guardian of the Two Worlds Series* by Chris Ing
+
+1. *Heart and Soul Fist*
+2. *Spirits of Summer*
+
 ### *Harry Potter* by J.K. Rowling
 
 1. *Harry Potter and the Sorcerer's Stone*
