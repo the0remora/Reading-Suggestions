@@ -8,25 +8,25 @@ This document separates Light Novels and Manga into two main categories, each or
 
 ### Isekai
 
-* Ascendance of a Bookworm
-* Black Summoner
-* Failure Frame
+* Ascendance of a Bookworm (ongoing)
+* Black Summoner (ongoing)
+* Failure Frame (ongoing)
 * How Not to Summon a Demon Lord
 * Mushoku Tensei
 * No Game No Life
-* Overlord
-* Skeleton Knight in Another World
+* Overlord (ongoing)
+* Skeleton Knight in Another World (ongoing)
 * So I'm a Spider, So What?
-* Sword Art Online
-* The Eminence in Shadow
-* The Greatest Demon Lord Is Reborn as a Typical Nobody
-* The Rising of a Shield Hero
-* That Time I Got Reincarnated as a Slime
+* Sword Art Online (ongoing)
+* The Eminence in Shadow (ongoing)
+* The Greatest Demon Lord Is Reborn as a Typical Nobody (ongoing)
+* The Rising of a Shield Hero (ongoing)
+* That Time I Got Reincarnated as a Slime (ongoing)
 
 ### Fantasy
 
-* Goblin Slayer
-* Is It Wrong to Try to Pick Up Girls in a Dungeon
+* Goblin Slayer (ongoing)
+* Is It Wrong to Try to Pick Up Girls in a Dungeon (ongoing)
 * Record of Lodoss War
 
 ### Science Fiction
@@ -56,7 +56,7 @@ This document separates Light Novels and Manga into two main categories, each or
 ### Action & Adventure
 
 * Dragon Ball
-* One Piece
+* One Piece (ongoing)
 
 ### Mystery & Thriller
 
@@ -76,7 +76,7 @@ This document separates Light Novels and Manga into two main categories, each or
 * Hikaru no Go
 * Initial D
 
-  * MF Ghost
+  * MF Ghost (ongoing)
 
 ### Historical & Drama
 
