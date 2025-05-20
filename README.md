@@ -303,3 +303,11 @@ All events are held in Blacksburg, SC. See the [calendar](https://www.shadowmoor
 * *Sixth of the Dusk* (novella)
 
 ---
+
+## 🔗 Other Reading Lists
+
+Looking for manga or light novels? Check out the separate page:
+
+📖 [Light Novels & Manga](Light-Novels-and-Manga.md)
+
+---
